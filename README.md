@@ -13,17 +13,17 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Status-Open_to_Work-39FF88?style=for-the-badge&logo=googlejobs&logoColor=white&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/Location-Dharmavaram,_India-00E5FF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/Graduating-2026-B892FF?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Status-Open_to_Work-39FF88?style=for-the-badge&logo=googlejobs&logoColor=white&labelColor=1a1a2e" height="34" style="border-radius:20px"/>
+<img src="https://img.shields.io/badge/Location-Dharmavaram,_India-00E5FF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a2e" height="34" style="border-radius:20px"/>
+<img src="https://img.shields.io/badge/Graduating-2026-B892FF?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1a1a2e" height="34" style="border-radius:20px"/>
 
 <br/><br/>
 
-<a href="https://drive.google.com/file/d/18PjcXUvEvGk6kfcFffbkRhG5YxdaFapv/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" height="42" style="border-radius:24px"/></a>
-<a href="https://glow-certify-folio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="42" style="border-radius:24px"/></a>
-<a href="https://www.linkedin.com/in/sreyeshmandly2341"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="42" style="border-radius:24px"/></a>
-<a href="mailto:mandlysreyesh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="42" style="border-radius:24px"/></a>
-<a href="https://github.com/sreyeshmandly"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="42" style="border-radius:24px"/></a>
+<a href="https://drive.google.com/file/d/18PjcXUvEvGk6kfcFffbkRhG5YxdaFapv/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" height="42" style="border-radius:20px"/></a>
+<a href="https://glow-certify-folio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="42" style="border-radius:20px"/></a>
+<a href="https://www.linkedin.com/in/sreyeshmandly2341"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="42" style="border-radius:20px"/></a>
+<a href="mailto:mandlysreyesh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="42" style="border-radius:20px"/></a>
+<a href="https://github.com/sreyeshmandly"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="42" style="border-radius:20px"/></a>
 
 </div>
 
