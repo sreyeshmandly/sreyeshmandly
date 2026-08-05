@@ -105,47 +105,55 @@ Solved 200+ coding problems in Python and enjoys turning ideas into practical so
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,js,html,css"/>
+**Languages** &nbsp;<sub>· Python is my primary language</sub>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=python" width="72" style="border-radius:14px"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js" width="52" style="border-radius:14px"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html" width="52" style="border-radius:14px"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" width="52" style="border-radius:14px"/>
 
 <br/><br/>
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,tailwind"/>
+**Frontend** &nbsp;<sub>· React is my go-to framework</sub>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=react" width="72" style="border-radius:14px"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=tailwind" width="52" style="border-radius:14px"/>
 
 <br/><br/>
 
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+**Backend** &nbsp;<sub>· Node.js + Express is my core backend stack</sub>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs" width="72" style="border-radius:14px"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=express" width="52" style="border-radius:14px"/>
 
 <br/><br/>
 
 **Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=mysql" width="72" style="border-radius:14px"/>
 
 <br/><br/>
 
-**AI / Computer Vision**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,opencv"/>
+**AI / Computer Vision** &nbsp;<sub>· OpenCV powers my CV projects</sub>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=python" width="52" style="border-radius:14px"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=opencv" width="72" style="border-radius:14px"/>
 
 <br/><br/>
 
 **Tools & Developer Workflow**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git" width="52" style="border-radius:14px"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" width="52" style="border-radius:14px"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" width="52" style="border-radius:14px"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postman" width="52" style="border-radius:14px"/>
 
 <br/><br/>
 
 **Cloud**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=aws" width="52" style="border-radius:14px"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat&logo=oracle&logoColor=white"/>
 
 </div>
 
@@ -411,13 +419,13 @@ System Design Fundamentals           ██████░░░░░░░░�
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Full_Stack_Web_Applications-6366F1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI_%26_Computer_Vision_Projects-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full_Stack_Web_Applications-6366F1?style=flat"/>
+<img src="https://img.shields.io/badge/AI_%26_Computer_Vision_Projects-8B5CF6?style=flat"/>
 <br/>
-<img src="https://img.shields.io/badge/Open_Source_Contributions-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Startup_Ideas-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open_Source_Contributions-06B6D4?style=flat"/>
+<img src="https://img.shields.io/badge/Startup_Ideas-6366F1?style=flat"/>
 <br/>
-<img src="https://img.shields.io/badge/Freelance_Web_Development-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Freelance_Web_Development-8B5CF6?style=flat"/>
 
 </div>
 
