@@ -78,6 +78,59 @@ Solved 200+ coding problems in Python and enjoys turning ideas into practical so
 
 <br/>
 
+<table width="100%">
+<tr>
+<td width="100%">
+
+#### 🔭 I'm currently working on
+Building production-ready Full Stack web applications using **React.js**, **Node.js**, **Express.js**, and **MySQL** while strengthening backend development skills. Alongside web development, I'm exploring AI-powered software solutions, particularly Computer Vision and intelligent automation — writing clean, scalable, maintainable code while following modern engineering practices, and steadily building out a stronger GitHub portfolio.
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+#### 👯 I'm looking to collaborate on
+Full Stack Web Applications, AI-powered products, Computer Vision projects, SaaS platforms, Open Source contributions, developer tools, startup ideas, and web applications that solve real-world problems — ideally in collaborative environments where I can learn from experienced developers while contributing meaningful code and ideas.
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+#### 🤝 I'm looking for help with
+Guidance from experienced engineers on advanced backend architecture, scalable system design, cloud deployment (AWS, Docker, CI/CD), authentication & security best practices, and database optimization — plus how large-scale applications are designed, deployed, and maintained in industry, and best practices for contributing to major open-source projects.
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+#### 🌱 I'm currently learning
+Advanced React.js, backend development with Node.js/Express.js, REST API design, authentication, and database optimization — alongside Data Structures & Algorithms for technical interviews, and System Design fundamentals, cloud technologies, and DevOps basics to grow into a well-rounded Software Engineer.
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+#### 💬 Ask me about
+Python, JavaScript, React.js, Node.js, Express.js, MySQL, REST API development, Git & GitHub, OpenCV, Computer Vision, software engineering fundamentals, coding interview prep, or my internship and project experiences — always happy to share my learning journey and exchange ideas.
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+#### ⚡ Fun fact
+I genuinely enjoy turning ideas into real software products — whether that's a Full Stack web app, an AI-powered experiment, or a coding challenge. I've solved 200+ problems in Python and believe consistent practice and curiosity are the keys to becoming a great Software Engineer.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ### 🧭 Developer Dashboard
 
 <table width="100%">
