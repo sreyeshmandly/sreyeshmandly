@@ -19,17 +19,11 @@
 
 <br/><br/>
 
-<a href="https://drive.google.com/file/d/18PjcXUvEvGk6kfcFffbkRhG5YxdaFapv/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
-<a href="https://glow-certify-folio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/sreyeshmandly2341"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:mandlysreyesh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/sreyeshmandly"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=sreyeshmandly&label=Profile%20Views&color=6366F1&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/sreyeshmandly?label=Followers&style=for-the-badge&color=6366F1"/>
-<img src="https://img.shields.io/github/stars/sreyeshmandly?label=Stars&style=for-the-badge&color=6366F1"/>
+<a href="https://drive.google.com/file/d/18PjcXUvEvGk6kfcFffbkRhG5YxdaFapv/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" height="42" style="border-radius:24px"/></a>
+<a href="https://glow-certify-folio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="42" style="border-radius:24px"/></a>
+<a href="https://www.linkedin.com/in/sreyeshmandly2341"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="42" style="border-radius:24px"/></a>
+<a href="mailto:mandlysreyesh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="42" style="border-radius:24px"/></a>
+<a href="https://github.com/sreyeshmandly"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="42" style="border-radius:24px"/></a>
 
 </div>
 
@@ -160,53 +154,53 @@ I genuinely enjoy turning ideas into real software products — whether that's a
 
 **Languages** &nbsp;<sub>· Python is my primary language</sub>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=python" width="72" style="border-radius:14px"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js" width="52" style="border-radius:14px"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=html" width="52" style="border-radius:14px"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" width="52" style="border-radius:14px"/>
+<img src="https://skillicons.dev/icons?i=python" width="96" style="border-radius:28px"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js" width="72" style="border-radius:24px"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html" width="72" style="border-radius:24px"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" width="72" style="border-radius:24px"/>
 
 <br/><br/>
 
 **Frontend** &nbsp;<sub>· React is my go-to framework</sub>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=react" width="72" style="border-radius:14px"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=tailwind" width="52" style="border-radius:14px"/>
+<img src="https://skillicons.dev/icons?i=react" width="96" style="border-radius:28px"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=tailwind" width="72" style="border-radius:24px"/>
 
 <br/><br/>
 
 **Backend** &nbsp;<sub>· Node.js + Express is my core backend stack</sub>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs" width="72" style="border-radius:14px"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=express" width="52" style="border-radius:14px"/>
+<img src="https://skillicons.dev/icons?i=nodejs" width="96" style="border-radius:28px"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=express" width="72" style="border-radius:24px"/>
 
 <br/><br/>
 
 **Databases**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=mysql" width="72" style="border-radius:14px"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="96" style="border-radius:28px"/>
 
 <br/><br/>
 
 **AI / Computer Vision** &nbsp;<sub>· OpenCV powers my CV projects</sub>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=python" width="52" style="border-radius:14px"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=opencv" width="72" style="border-radius:14px"/>
+<img src="https://skillicons.dev/icons?i=python" width="72" style="border-radius:24px"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=opencv" width="96" style="border-radius:28px"/>
 
 <br/><br/>
 
 **Tools & Developer Workflow**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=git" width="52" style="border-radius:14px"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" width="52" style="border-radius:14px"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" width="52" style="border-radius:14px"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=postman" width="52" style="border-radius:14px"/>
+<img src="https://skillicons.dev/icons?i=git" width="72" style="border-radius:24px"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" width="72" style="border-radius:24px"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" width="72" style="border-radius:24px"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postman" width="72" style="border-radius:24px"/>
 
 <br/><br/>
 
 **Cloud**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=aws" width="52" style="border-radius:14px"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat&logo=oracle&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=aws" width="72" style="border-radius:24px"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat&logo=oracle&logoColor=white" height="40" style="border-radius:20px"/>
 
 </div>
 
@@ -239,7 +233,7 @@ A full-stack web application that automates library operations, including book m
 
 **Learning outcomes:** Relational schema design, building clean REST endpoints for CRUD-heavy apps
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql" width="180" style="border-radius:24px"/>
 
 [![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](#) <!-- TODO: Add repository URL -->
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Unavailable-6B7280?style=for-the-badge)](#)
@@ -267,7 +261,7 @@ An AI-powered online proctoring system that verifies candidate identity using fa
 
 **Learning outcomes:** Applying computer vision to real-time behavioral monitoring problems at scale
 
-<img src="https://skillicons.dev/icons?i=python,opencv"/>
+<img src="https://skillicons.dev/icons?i=python,opencv" width="130" style="border-radius:24px"/>
 
 [![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sreyeshmandly/PROCTOGUARD-AI_DRIVEN_SMART_ONLINE_EXAMINATION_AUTHENTICATION_AND_PROCTORING_SYSTEM)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Unavailable-6B7280?style=for-the-badge)](#)
@@ -295,7 +289,7 @@ A full-stack food ordering application with user authentication, real-time order
 
 **Learning outcomes:** Full-stack delivery under real internship deadlines and production-style workflows
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,postman"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,postman" width="300" style="border-radius:24px"/>
 
 [![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](#) <!-- TODO: Add repository URL if available -->
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Unavailable-6B7280?style=for-the-badge)](#)
@@ -494,27 +488,27 @@ System Design Fundamentals           ██████░░░░░░░░�
 <tr>
 <td align="center" width="20%">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreyeshmandly2341)
+<a href="https://www.linkedin.com/in/sreyeshmandly2341"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="46" style="border-radius:24px"/></a>
 
 </td>
 <td align="center" width="20%">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://glow-certify-folio.lovable.app/)
+<a href="https://glow-certify-folio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="46" style="border-radius:24px"/></a>
 
 </td>
 <td align="center" width="20%">
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mandlysreyesh@gmail.com)
+<a href="mailto:mandlysreyesh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="46" style="border-radius:24px"/></a>
 
 </td>
 <td align="center" width="20%">
 
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/18PjcXUvEvGk6kfcFffbkRhG5YxdaFapv/view?usp=sharing)
+<a href="https://drive.google.com/file/d/18PjcXUvEvGk6kfcFffbkRhG5YxdaFapv/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" height="46" style="border-radius:24px"/></a>
 
 </td>
 <td align="center" width="20%">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sreyeshmandly)
+<a href="https://github.com/sreyeshmandly"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="46" style="border-radius:24px"/></a>
 
 </td>
 </tr>
