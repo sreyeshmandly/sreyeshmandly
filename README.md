@@ -218,25 +218,50 @@ I genuinely enjoy turning ideas into real software products — whether that's a
 <tr>
 <td width="100%">
 
-### 📚 Library Management System
+### 📚 Library Management System (MERN Stack)
 **Status:** ✅ Completed
 
-A full-stack web application that automates library operations, including book management, borrowing, and returns. Streamlines record management through secure CRUD operations and RESTful APIs.
+A full-stack MERN (MongoDB, Express.js, React.js, Node.js) web application that digitizes library operations by enabling administrators and members to efficiently manage books, users, and borrowing activities through a modern web interface.
 
-**Problem solved:** Manual, error-prone library record keeping and slow borrow/return tracking.
+**Problem Solved:**  
+Traditional library management relies on manual record keeping, making book tracking, issue/return management, and member administration time-consuming and error-prone. This system automates the complete workflow.
 
-**Architecture:** Client → Express REST API → MySQL database
+**Architecture:**  
+React.js Frontend → Express.js REST API → Node.js Backend → MongoDB Database
 
-**Features:** Secure CRUD operations · RESTful API design · Centralized record management
+**Key Features:**
+- 📚 Book Management (Add, Update, Delete)
+- 👥 Member Management
+- 🔐 Secure User Authentication
+- 📖 Book Categories
+- 🔄 Issue & Return Books
+- 📊 Transaction History
+- ⚡ RESTful API Integration
+- 📱 Responsive User Interface
+- 🗂️ Centralized Database Management
 
-**Future improvements:** Role-based auth, overdue-fine automation, admin analytics dashboard
+**Tech Stack:**
+- Frontend: React.js
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- API Testing: Postman
+- Version Control: Git & GitHub
 
-**Learning outcomes:** Relational schema design, building clean REST endpoints for CRUD-heavy apps
+**Learning Outcomes:**
+- Built a complete MERN Stack application.
+- Designed RESTful APIs using Express.js.
+- Integrated MongoDB with Mongoose.
+- Implemented CRUD operations.
+- Developed responsive React.js components.
+- Managed backend routing and authentication.
+- Improved full-stack development and project deployment workflow.
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql" width="180" style="border-radius:24px"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postman,git,github" width="360" style="border-radius:24px"/>
 
-[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](#) <!-- TODO: Add repository URL -->
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Unavailable-6B7280?style=for-the-badge)](#)
+<br><br>
+
+[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sreyeshmandly/Library-Management-System-MERN)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Coming_Soon-2563EB?style=for-the-badge)](#)
 
 </td>
 </tr>
