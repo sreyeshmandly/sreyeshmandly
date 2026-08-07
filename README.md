@@ -316,7 +316,7 @@ A full-stack food ordering application with user authentication, real-time order
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,postman" width="300" style="border-radius:24px"/>
 
-[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](#) <!-- TODO: Add repository URL if available -->
+[![GitHub][(https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sreyeshmandly/Food-Ordering-Web-Application)](#) <!-- TODO: Add repository URL if available -->
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Unavailable-6B7280?style=for-the-badge)](#)
 
 </td>
