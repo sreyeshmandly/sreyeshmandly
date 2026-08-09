@@ -289,7 +289,10 @@ An AI-powered online proctoring system that verifies candidate identity using fa
 <img src="https://skillicons.dev/icons?i=python,opencv" width="130" style="border-radius:24px"/>
 
 [![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sreyeshmandly/PROCTOGUARD-AI_DRIVEN_SMART_ONLINE_EXAMINATION_AUTHENTICATION_AND_PROCTORING_SYSTEM)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Unavailable-6B7280?style=for-the-badge)](#)
+### 🎥 Project Demo
+
+**Demo Video:** [Google Drive](https://drive.google.com/file/d/1b-v842pZRW6asf8Y9srD_QqKATwZ2c1G/view?usp=sharing)  
+**Duration:** 7 minutes
 
 </td>
 </tr>
