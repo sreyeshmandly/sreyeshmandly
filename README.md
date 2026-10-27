@@ -1,29 +1,26 @@
 <div align="center">
 
 <!-- ============ HERO — adapts to GitHub light/dark theme ============ -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:151a2e,50:1a1440,75:23113f,100:0d1117&height=260&section=header&text=MANDLY%20SREYESH&fontSize=54&fontColor=00E5FF&animation=twinkling&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER%20%C2%B7%20AI%20%26%20COMPUTER%20VISION&descAlignY=58&descSize=16&descColor=B892FF"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:eef2ff,25:e0e7ff,50:ddd6fe,75:e0e7ff,100:eef2ff&height=260&section=header&text=MANDLY%20SREYESH&fontSize=54&fontColor=4338CA&animation=twinkling&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER%20%C2%B7%20AI%20%26%20COMPUTER%20VISION&descAlignY=58&descSize=16&descColor=7C3AED" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:eef2ff,25:e0e7ff,50:ddd6fe,75:e0e7ff,100:eef2ff&height=260&section=header&text=MANDLY%20SREYESH&fontSize=54&fontColor=4338CA&animation=twinkling&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER%20%C2%B7%20AI%20%26%20COMPUTER%20VISION&descAlignY=58&descSize=16&descColor=7C3AED" width="100%" alt="Mandly Sreyesh — Full Stack Developer"/>
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=760&lines=Full+Stack+Developer;AI+%26+Computer+Vision+Engineer;Building+Scalable+Web+Applications;B.Tech+CSE+%C2%B7+Graduating+2026"/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4338CA&center=true&vCenter=true&width=760&lines=Full+Stack+Developer;AI+%26+Computer+Vision+Engineer;Building+Scalable+Web+Applications;B.Tech+CSE+%C2%B7+Graduating+2026" alt="Typing SVG"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=760&lines=Full+Stack+Developer;AI+%26+Computer+Vision+Engineer;Building+Scalable+Web+Applications;Exploring+LLMs+%26+RAG;B.Tech+CSE+%C2%B7+Graduating+2026"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4338CA&center=true&vCenter=true&width=760&lines=Full+Stack+Developer;AI+%26+Computer+Vision+Engineer;Building+Scalable+Web+Applications;Exploring+LLMs+%26+RAG;B.Tech+CSE+%C2%B7+Graduating+2026" alt="Full Stack Developer | AI and Computer Vision"/>
 </picture>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Status-Open_to_Work-39FF88?style=for-the-badge&logo=googlejobs&logoColor=white&labelColor=1a1a2e" height="34" style="border-radius:20px"/>
-<img src="https://img.shields.io/badge/Location-Dharmavaram,_India-00E5FF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a2e" height="34" style="border-radius:20px"/>
-<img src="https://img.shields.io/badge/Graduating-2026-B892FF?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1a1a2e" height="34" style="border-radius:20px"/>
+<img src="https://img.shields.io/badge/Status-Open_to_Work-39FF88?style=for-the-badge&logo=googlejobs&logoColor=white&labelColor=1a1a2e" height="34" alt="Open to Work"/>
+<img src="https://img.shields.io/badge/Location-Dharmavaram,_India-00E5FF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a2e" height="34" alt="Location: Dharmavaram, India"/>
+<img src="https://img.shields.io/badge/Graduating-2026-B892FF?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1a1a2e" height="34" alt="Graduating 2026"/>
 
 <br/><br/>
 
-<a href="https://drive.google.com/file/d/18PjcXUvEvGk6kfcFffbkRhG5YxdaFapv/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" height="42" style="border-radius:20px"/></a>
-<a href="https://glow-certify-folio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="42" style="border-radius:20px"/></a>
-<a href="https://www.linkedin.com/in/sreyeshmandly2341"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="42" style="border-radius:20px"/></a>
-<a href="mailto:mandlysreyesh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="42" style="border-radius:20px"/></a>
-<a href="https://github.com/sreyeshmandly"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="42" style="border-radius:20px"/></a>
+<a href="https://drive.google.com/file/d/18PjcXUvEvGk6kfcFffbkRhG5YxdaFapv/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" height="42" alt="Resume"/></a> <a href="https://glow-certify-folio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="42" alt="Portfolio"/></a> <a href="https://www.linkedin.com/in/sreyeshmandly2341"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="42" alt="LinkedIn"/></a> <a href="mailto:mandlysreyesh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="42" alt="Email"/></a> <a href="https://github.com/sreyeshmandly"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="42" alt="GitHub"/></a>
 
 </div>
 
@@ -39,32 +36,26 @@
 <tr>
 <td width="50%" valign="top">
 
-**Who I am**
-<br/>
-Computer Science undergraduate and aspiring Software Engineer with hands-on experience in Full Stack Web Development and AI-based projects.
+**Who I am** <br/>
+Computer Science undergraduate and aspiring Software Engineer with hands-on exposure to full-stack web development, AI-powered applications, and computer vision.
 
-**What I build**
-<br/>
-Scalable, user-focused full-stack applications and AI-driven systems — from library platforms to real-time computer-vision proctoring tools.
+**What I build** <br/>
+Full-stack web applications and intelligent software systems, including multi-tenant support platforms, asynchronous AI ticket classification, RAG-based question answering, and computer vision applications.
 
-**Career goal**
-<br/>
-Seeking full-time Software Engineer / Full Stack Developer roles. Open to entry-level opportunities and graduate programs.
+**Career goal** <br/>
+Seeking entry-level Software Engineer, Full Stack Developer, and AI Application Developer opportunities.
 
 </td>
 <td width="50%" valign="top">
 
-**Current focus**
-<br/>
-Advanced React.js, Data Structures & Algorithms, and System Design fundamentals.
+**Current focus** <br/>
+React.js, Node.js, Express.js, MySQL, Google Gemini, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG).
 
-**Interests**
-<br/>
-Full Stack Web Development · AI & Computer Vision · Solving coding challenges
+**Interests** <br/>
+Full Stack Development · Generative AI · LLM Applications · RAG · Computer Vision
 
-**Fun fact**
-<br/>
-Solved 200+ coding problems in Python and enjoys turning ideas into practical software projects.
+**Fun fact** <br/>
+Solved 200+ coding problems in Python and enjoy turning ideas into practical software projects.
 
 </td>
 </tr>
@@ -77,7 +68,8 @@ Solved 200+ coding problems in Python and enjoys turning ideas into practical so
 <td width="100%">
 
 #### 🔭 I'm currently working on
-Building production-ready Full Stack web applications using **React.js**, **Node.js**, **Express.js**, and **MySQL** while strengthening backend development skills. Alongside web development, I'm exploring AI-powered software solutions, particularly Computer Vision and intelligent automation — writing clean, scalable, maintainable code while following modern engineering practices, and steadily building out a stronger GitHub portfolio.
+
+Building full-stack applications using **React.js, Node.js, Express.js, and MySQL**, with a focus on backend architecture, secure REST APIs, and database design. I am also developing AI-powered applications using **Google Gemini, Large Language Models (LLMs), embeddings, and Retrieval-Augmented Generation (RAG)**. My current project, SupportDesk AI Pro, combines multi-tenant ticket management, asynchronous AI ticket triage, and knowledge-grounded answer generation.
 
 </td>
 </tr>
@@ -85,7 +77,8 @@ Building production-ready Full Stack web applications using **React.js**, **Node
 <td width="100%">
 
 #### 👯 I'm looking to collaborate on
-Full Stack Web Applications, AI-powered products, Computer Vision projects, SaaS platforms, Open Source contributions, developer tools, startup ideas, and web applications that solve real-world problems — ideally in collaborative environments where I can learn from experienced developers while contributing meaningful code and ideas.
+
+Full Stack Web Applications, AI-powered products, LLM and RAG applications, Computer Vision projects, SaaS platforms, open-source contributions, developer tools, and software that solves real-world problems.
 
 </td>
 </tr>
@@ -93,7 +86,8 @@ Full Stack Web Applications, AI-powered products, Computer Vision projects, SaaS
 <td width="100%">
 
 #### 🤝 I'm looking for help with
-Guidance from experienced engineers on advanced backend architecture, scalable system design, cloud deployment (AWS, Docker, CI/CD), authentication & security best practices, and database optimization — plus how large-scale applications are designed, deployed, and maintained in industry, and best practices for contributing to major open-source projects.
+
+Advanced backend architecture, scalable system design, cloud deployment, Docker, CI/CD, authentication and security best practices, database optimization, and production-ready AI application development.
 
 </td>
 </tr>
@@ -101,7 +95,8 @@ Guidance from experienced engineers on advanced backend architecture, scalable s
 <td width="100%">
 
 #### 🌱 I'm currently learning
-Advanced React.js, backend development with Node.js/Express.js, REST API design, authentication, and database optimization — alongside Data Structures & Algorithms for technical interviews, and System Design fundamentals, cloud technologies, and DevOps basics to grow into a well-rounded Software Engineer.
+
+Advanced React.js, Node.js, Express.js, REST API design, authentication, MySQL optimization, Data Structures and Algorithms, System Design fundamentals, and practical LLM application development with embeddings and RAG.
 
 </td>
 </tr>
@@ -109,7 +104,8 @@ Advanced React.js, backend development with Node.js/Express.js, REST API design,
 <td width="100%">
 
 #### 💬 Ask me about
-Python, JavaScript, React.js, Node.js, Express.js, MySQL, REST API development, Git & GitHub, OpenCV, Computer Vision, software engineering fundamentals, coding interview prep, or my internship and project experiences — always happy to share my learning journey and exchange ideas.
+
+Python, JavaScript, React.js, Node.js, Express.js, MySQL, REST APIs, Git and GitHub, Google Gemini integration, RAG fundamentals, OpenCV, Computer Vision, and my full-stack development projects.
 
 </td>
 </tr>
@@ -117,7 +113,8 @@ Python, JavaScript, React.js, Node.js, Express.js, MySQL, REST API development, 
 <td width="100%">
 
 #### ⚡ Fun fact
-I genuinely enjoy turning ideas into real software products — whether that's a Full Stack web app, an AI-powered experiment, or a coding challenge. I've solved 200+ problems in Python and believe consistent practice and curiosity are the keys to becoming a great Software Engineer.
+
+I enjoy transforming ideas into working software, from full-stack applications and AI-powered support systems to computer vision projects. I believe consistent practice, curiosity, and hands-on building are essential to becoming a better engineer.
 
 </td>
 </tr>
@@ -129,16 +126,16 @@ I genuinely enjoy turning ideas into real software products — whether that's a
 
 <table width="100%">
 <tr>
-<td align="center">🎯<br/><b>Focus</b><br/>AI-powered Web Apps</td>
-<td align="center">🧱<br/><b>Preferred Stack</b><br/>React · Node · MySQL</td>
-<td align="center">⏳<br/><b>Experience</b><br/>~4 years coding</td>
+<td align="center">🎯<br/><b>Focus</b><br/>Full Stack + GenAI</td>
+<td align="center">🧱<br/><b>Preferred Stack</b><br/>React · Node · MySQL · Gemini</td>
+<td align="center">💻<br/><b>Experience</b><br/>Project-Based Development</td>
 <td align="center">🟢<br/><b>Open to Work</b><br/>Yes</td>
 </tr>
 <tr>
 <td align="center">🎓<br/><b>Graduation</b><br/>2026</td>
 <td align="center">📍<br/><b>Location</b><br/>Dharmavaram, India</td>
 <td align="center">🕒<br/><b>Time Zone</b><br/>IST (UTC+5:30)</td>
-<td align="center">⚡<br/><b>Response Time</b><br/>&lt; 24 hours</td>
+<td align="center">⚡<br/><b>Interests</b><br/>Software + AI</td>
 </tr>
 </table>
 
@@ -152,55 +149,39 @@ I genuinely enjoy turning ideas into real software products — whether that's a
 
 <div align="center">
 
-**Languages** &nbsp;<sub>· Python is my primary language</sub>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=python" width="96" style="border-radius:28px"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js" width="72" style="border-radius:24px"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=html" width="72" style="border-radius:24px"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" width="72" style="border-radius:24px"/>
+**Languages** <br/><br/> <img src="https://skillicons.dev/icons?i=python" width="80" alt="Python"/>   <img src="https://skillicons.dev/icons?i=js" width="64" alt="JavaScript"/>   <img src="https://skillicons.dev/icons?i=html" width="64" alt="HTML"/>   <img src="https://skillicons.dev/icons?i=css" width="64" alt="CSS"/>
 
 <br/><br/>
 
-**Frontend** &nbsp;<sub>· React is my go-to framework</sub>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=react" width="96" style="border-radius:28px"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=tailwind" width="72" style="border-radius:24px"/>
+**Frontend** <br/><br/> <img src="https://skillicons.dev/icons?i=react" width="80" alt="React.js"/>   <img src="https://skillicons.dev/icons?i=tailwind" width="64" alt="Tailwind CSS"/>   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="36" alt="Vite"/>
 
 <br/><br/>
 
-**Backend** &nbsp;<sub>· Node.js + Express is my core backend stack</sub>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs" width="96" style="border-radius:28px"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=express" width="72" style="border-radius:24px"/>
+**Backend & APIs** <br/><br/> <img src="https://skillicons.dev/icons?i=nodejs" width="80" alt="Node.js"/>   <img src="https://skillicons.dev/icons?i=express" width="64" alt="Express.js"/>   <img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge" height="36" alt="REST APIs"/>
 
 <br/><br/>
 
-**Databases**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=mysql" width="96" style="border-radius:28px"/>
+**Databases** <br/><br/> <img src="https://skillicons.dev/icons?i=mysql" width="80" alt="MySQL"/>   <img src="https://skillicons.dev/icons?i=mongodb" width="64" alt="MongoDB"/>
 
 <br/><br/>
 
-**AI / Computer Vision** &nbsp;<sub>· OpenCV powers my CV projects</sub>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=python" width="72" style="border-radius:24px"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=opencv" width="96" style="border-radius:28px"/>
+**Generative AI & LLM Engineering** <br/><br/> <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" height="36" alt="Google Gemini"/>  <img src="https://img.shields.io/badge/LLM_Integration-7C3AED?style=for-the-badge" height="36" alt="LLM Integration"/>  <img src="https://img.shields.io/badge/RAG-0891B2?style=for-the-badge" height="36" alt="Retrieval-Augmented Generation"/>  <img src="https://img.shields.io/badge/Embeddings-059669?style=for-the-badge" height="36" alt="Embeddings"/>
 
 <br/><br/>
 
-**Tools & Developer Workflow**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=git" width="72" style="border-radius:24px"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" width="72" style="border-radius:24px"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" width="72" style="border-radius:24px"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=postman" width="72" style="border-radius:24px"/>
+**Computer Vision** <br/><br/> <img src="https://skillicons.dev/icons?i=python" width="64" alt="Python"/>   <img src="https://skillicons.dev/icons?i=opencv" width="80" alt="OpenCV"/>
 
 <br/><br/>
 
-**Cloud**
+**Background Processing** <br/><br/> <img src="https://skillicons.dev/icons?i=redis" width="64" alt="Redis"/>   <img src="https://img.shields.io/badge/BullMQ-CC0000?style=for-the-badge" height="36" alt="BullMQ"/>
+
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=aws" width="72" style="border-radius:24px"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat&logo=oracle&logoColor=white" height="40" style="border-radius:20px"/>
+
+**Testing & Developer Workflow** <br/><br/> <img src="https://skillicons.dev/icons?i=git" width="64" alt="Git"/>   <img src="https://skillicons.dev/icons?i=github" width="64" alt="GitHub"/>   <img src="https://skillicons.dev/icons?i=vscode" width="64" alt="VS Code"/>   <img src="https://skillicons.dev/icons?i=postman" width="64" alt="Postman"/>   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" height="36" alt="Jest"/>
+
+<br/><br/>
+
+**Cloud & Certifications** <br/><br/> <img src="https://skillicons.dev/icons?i=aws" width="64" alt="AWS"/>   <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat&logo=oracle&logoColor=white" height="36" alt="Oracle Cloud"/>
 
 </div>
 
@@ -212,87 +193,209 @@ I genuinely enjoy turning ideas into real software products — whether that's a
 
 ## 🚀 Featured Projects
 
-<!-- Update the GitHub links marked TODO with your actual repository URLs -->
+<!-- PROJECT 1: SUPPORTDESK AI PRO -->
+
+<table width="100%">
+<tr>
+<td width="100%">
+
+### 🎫 SupportDesk AI Pro — AI-Powered Customer Support Platform
+
+**Status:** 🚧 Active Development
+
+A full-stack, multi-tenant customer support platform combining secure ticket management, asynchronous AI-powered ticket classification, and Retrieval-Augmented Generation (RAG) to help support teams manage requests and answer questions using organization-specific knowledge.
+
+**Problem Solved:**
+Support teams need to organize incoming requests, classify issues efficiently, protect private conversations, and provide accurate answers from documentation. This platform brings these workflows together while enforcing organization-level access controls.
+
+**Architecture:**
+
+```text
+React + Vite Frontend
+        |
+        v
+Node.js + Express REST API
+        |
+        +-------> MySQL Database
+        |
+        +-------> Redis + BullMQ
+        |              |
+        |              v
+        |        AI Triage Worker
+        |              |
+        |              v
+        |         Google Gemini
+        |
+        +-------> RAG Question Answering
+                       |
+                       v
+                Gemini Embeddings
+                       |
+                       v
+              MySQL Article Chunks
+                       |
+                       v
+             Grounded Answer Generation
+```
+
+**Key Features:**
+
+* 🔐 JWT authentication and role-based authorization.
+* 🏢 Organization-scoped access for multi-tenant data isolation.
+* 🎫 Ticket creation, listing, status management, assignment, and SLA tracking.
+* 💬 Ticket conversations with public replies and staff-only internal notes.
+* 🤖 Asynchronous AI ticket triage using Google Gemini.
+* ⚙️ Background processing and retry handling with Redis and BullMQ.
+* 📚 Knowledge-base article creation, editing, drafting, and publishing.
+* 🔎 RAG-based question answering using relevant published article chunks.
+* 🧠 Gemini embeddings stored in MySQL without a separate vector database.
+* 🛡️ Request validation, ticket ownership checks, and tenant-aware retrieval.
+* 🧪 Backend automated tests using Jest and Supertest.
+
+**Tech Stack:**
+
+* Frontend: React.js, JavaScript, Vite, React Router, Axios
+* Backend: Node.js, Express.js, REST APIs
+* Database: MySQL, mysql2
+* AI & LLMs: Google Gemini, embeddings, RAG
+* Background Jobs: Redis, BullMQ
+* Security: JWT, bcrypt, Zod, Helmet, CORS
+* Testing: Jest, Supertest
+* Tools: Git, GitHub, Postman
+
+**Engineering Highlights:**
+
+* Separated ticket creation from AI processing using a background queue.
+* Designed organization-aware retrieval for knowledge-base question answering.
+* Stored embeddings and article chunks in MySQL rather than adding a separate vector database.
+* Built automated tests for backend behavior and security-sensitive workflows.
+
+**Testing Evidence:**
+
+During development, 7 backend test suites containing 72 tests passed, and the frontend production build succeeded. These are historical results and should be verified against the current code before release.
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,redis,git,github" width="350" alt="SupportDesk AI Pro technologies"/>
+
+<br/><br/>
+
+[![GitHub Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/sreyeshmandly/supportdesk-ai)
+
+</td>
+</tr>
+</table>
+
+<!-- PROJECT 2: LIBRARY MANAGEMENT SYSTEM -->
 
 <table width="100%">
 <tr>
 <td width="100%">
 
 ### 📚 Library Management System (MERN Stack)
+
 **Status:** ✅ Completed
 
-A full-stack MERN (MongoDB, Express.js, React.js, Node.js) web application that digitizes library operations by enabling administrators and members to efficiently manage books, users, and borrowing activities through a modern web interface.
+A full-stack MERN web application that digitizes library operations by enabling administrators and members to manage books, users, and borrowing activities through a modern web interface.
 
-**Problem Solved:**  
-Traditional library management relies on manual record keeping, making book tracking, issue/return management, and member administration time-consuming and error-prone. This system automates the complete workflow.
+**Problem Solved:**
+Traditional library management relies on manual record keeping, making book tracking, issue/return management, and member administration time-consuming and error-prone. This system automates these workflows.
 
-**Architecture:**  
+**Architecture:**
 React.js Frontend → Express.js REST API → Node.js Backend → MongoDB Database
 
 **Key Features:**
-- 📚 Book Management (Add, Update, Delete)
-- 👥 Member Management
-- 🔐 Secure User Authentication
-- 📖 Book Categories
-- 🔄 Issue & Return Books
-- 📊 Transaction History
-- ⚡ RESTful API Integration
-- 📱 Responsive User Interface
-- 🗂️ Centralized Database Management
+
+* 📚 Book management: add, update, and delete.
+* 👥 Member management.
+* 🔐 User authentication.
+* 📖 Book categories.
+* 🔄 Issue and return books.
+* 📊 Transaction history.
+* ⚡ REST API integration.
+* 📱 Responsive user interface.
+* 🗂️ Centralized database management.
 
 **Tech Stack:**
-- Frontend: React.js
-- Backend: Node.js, Express.js
-- Database: MongoDB
-- API Testing: Postman
-- Version Control: Git & GitHub
+
+* Frontend: React.js
+* Backend: Node.js, Express.js
+* Database: MongoDB
+* API Testing: Postman
+* Version Control: Git and GitHub
 
 **Learning Outcomes:**
-- Built a complete MERN Stack application.
-- Designed RESTful APIs using Express.js.
-- Integrated MongoDB with Mongoose.
-- Implemented CRUD operations.
-- Developed responsive React.js components.
-- Managed backend routing and authentication.
-- Improved full-stack development and project deployment workflow.
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postman,git,github" width="360" style="border-radius:24px"/>
+* Built a full-stack MERN application.
+* Designed RESTful APIs using Express.js.
+* Integrated MongoDB with Mongoose.
+* Implemented CRUD operations.
+* Developed responsive React components.
+* Practiced backend routing and authentication.
 
-<br><br>
+<br/>
 
-[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sreyeshmandly/Library-Management-System-MERN)
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postman,git,github" width="360" alt="Library Management System technologies"/>
+
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/sreyeshmandly/Library-Management-System-MERN)
+
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Coming_Soon-2563EB?style=for-the-badge)](#)
 
 </td>
 </tr>
 </table>
 
+<!-- PROJECT 3: PROCTOGUARD -->
+
 <table width="100%">
 <tr>
 <td width="100%">
 
 ### 🛡️ ProctoGuard — AI-Driven Smart Online Examination Authentication & Proctoring System
+
 **Status:** ✅ Completed
 
 An AI-powered online proctoring system that verifies candidate identity using face recognition and monitors exams in real time by detecting suspicious activities such as multiple faces, head movement, and absence from the screen.
 
-**Problem solved:** Lack of reliable, automated exam-integrity monitoring for remote assessments.
+**Problem Solved:**
+Remote assessments require reliable identity verification and exam-integrity monitoring. This project explores computer vision techniques for automating parts of that monitoring process.
 
-**Architecture:** Webcam feed → OpenCV real-time processing → Face recognition & anomaly detection → Alert/flagging system
+**Architecture:**
+Webcam Feed → OpenCV Processing → Face Recognition and Activity Detection → Alerts and Flags
 
-**Features:** Real-time face recognition · multi-face detection · head-movement tracking · absence detection
+**Features:**
 
-**Future improvements:** Audio-based cheating detection, browser lockdown, live proctor dashboard
+* Real-time face recognition.
+* Multiple-face detection.
+* Head-movement tracking.
+* Candidate-absence detection.
 
-**Learning outcomes:** Applying computer vision to real-time behavioral monitoring problems at scale
+**Potential Future Improvements:**
 
-<img src="https://skillicons.dev/icons?i=python,opencv" width="130" style="border-radius:24px"/>
+* Audio-based suspicious-activity detection.
+* Browser lockdown integration.
+* Live proctor dashboard.
 
-[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sreyeshmandly/PROCTOGUARD-AI_DRIVEN_SMART_ONLINE_EXAMINATION_AUTHENTICATION_AND_PROCTORING_SYSTEM)
+**Learning Outcomes:**
+
+* Applied computer vision to real-time monitoring.
+* Worked with OpenCV and face-recognition workflows.
+* Explored automated activity detection.
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,opencv" width="130" alt="ProctoGuard technologies"/>
+
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/sreyeshmandly/PROCTOGUARD-AI_DRIVEN_SMART_ONLINE_EXAMINATION_AUTHENTICATION_AND_PROCTORING_SYSTEM)
+
 ### 🎥 Project Demo
 
 <a href="https://drive.google.com/file/d/1b-v842pZRW6asf8Y9srD_QqKATwZ2c1G/view?usp=sharing">
-  <img src="https://img.shields.io/badge/▶%20View%20Demo-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="View Demo">
+  <img src="https://img.shields.io/badge/▶%20View%20Demo-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="View ProctoGuard Demo"/>
 </a>
 
 **Duration:** 7 minutes
@@ -301,28 +404,48 @@ An AI-powered online proctoring system that verifies candidate identity using fa
 </tr>
 </table>
 
+<!-- PROJECT 4: FOOD DELIVERY -->
+
 <table width="100%">
 <tr>
 <td width="100%">
 
 ### 🍔 Food Delivery Web Application
-**Status:** ✅ Completed (Internship Project)
 
-A full-stack food ordering application with user authentication, real-time order tracking, REST APIs, and optimized database performance — developed during my internship.
+**Status:** ✅ Completed — Internship Project
 
-**Problem solved:** End-to-end online food ordering with reliable, real-time order visibility.
+A full-stack food ordering application developed during my internship, with user authentication, order tracking, REST API integration, and database operations.
 
-**Architecture:** React frontend → Express REST API → MySQL database, tested via Postman
+**Problem Solved:**
+Online food ordering requires a reliable way to manage customer requests and provide visibility into order status.
 
-**Features:** Secure authentication · real-time order tracking · optimized MySQL queries · REST API integration
+**Architecture:**
+React Frontend → Express REST API → MySQL Database
 
-**Future improvements:** Payment gateway integration, push notifications, admin operations dashboard
+**Features:**
 
-**Learning outcomes:** Full-stack delivery under real internship deadlines and production-style workflows
+* User authentication.
+* Order tracking.
+* REST API integration.
+* MySQL database operations.
+* Responsive frontend.
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,postman" width="300" style="border-radius:24px"/>
+**Learning Outcomes:**
 
-[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sreyeshmandly/Food-Ordering-Web-Application) <!-- TODO: Add repository URL if available -->
+* Practiced full-stack application development.
+* Integrated frontend components with backend APIs.
+* Worked with MySQL and SQL operations.
+* Used Postman to test and debug APIs.
+* Used Git and GitHub for version control.
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,postman" width="300" alt="Food Delivery technologies"/>
+
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/sreyeshmandly/Food-Ordering-Web-Application)
+
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Unavailable-6B7280?style=for-the-badge)](#)
 
 </td>
@@ -341,37 +464,38 @@ A full-stack food ordering application with user authentication, real-time order
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sreyeshmandly&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sreyeshmandly&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sreyeshmandly&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub Statistics"/>
 </picture>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sreyeshmandly&layout=compact&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreyeshmandly&layout=compact&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreyeshmandly&layout=compact&theme=default&hide_border=true" height="165" alt="Most Used Languages"/>
 </picture>
 
 <br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=sreyeshmandly&theme=tokyonight&hide_border=true"/>
-  <img src="https://streak-stats.demolab.com/?user=sreyeshmandly&theme=default&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=sreyeshmandly&theme=default&hide_border=true" alt="GitHub Contribution Streak"/>
 </picture>
 
 <br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sreyeshmandly&theme=tokyo-night&hide_border=true"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sreyeshmandly&theme=minimal&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sreyeshmandly&theme=minimal&hide_border=true" alt="GitHub Contribution Activity"/>
 </picture>
 
 <br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=sreyeshmandly&theme=tokyonight&no-frame=true&row=1&column=6"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=sreyeshmandly&theme=flat&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sreyeshmandly&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Profile Trophies"/>
 </picture>
 
 </div>
 
-> 📌 **Repository Pins** — pin your best repos from your [GitHub profile settings](https://github.com/sreyeshmandly?tab=repositories) → *Customize your pins* to feature them at the top of your profile (pins can't be embedded directly in a README).
+> 📌 **Repository Pins:** Visit your [GitHub profile repositories](https://github.com/sreyeshmandly?tab=repositories) and select *Customize your pins* to feature your strongest projects.
 
 <br/>
 
@@ -385,41 +509,47 @@ A full-stack food ordering application with user authentication, real-time order
 <tr>
 <td width="100%">
 
-**💼 Full Stack Intern — Food Delivery Web App** &nbsp;·&nbsp; *2025*
-<br/>Built user authentication, real-time order tracking, and optimized REST APIs for a production-style food ordering platform.
-<br/>**Impact:** Delivered a complete, working full-stack ordering system end-to-end.
+**💼 Full Stack Web Development Intern — Slash Mark IT Solutions**  ·  *Jul–Sep 2025*
+
+<br/>
+
+* Developed responsive web interfaces using HTML, CSS, JavaScript, and React.js.
+* Implemented backend functionality using Node.js, Express.js, and REST APIs.
+* Worked with MySQL and SQL for application data management.
+* Used Git, GitHub, and Postman for version control, API testing, and debugging.
 
 </td>
 </tr>
 <tr>
 <td width="100%">
 
-**☁️ AWS Cloud Intern** &nbsp;·&nbsp; *2025*
-<br/>Gained hands-on exposure to cloud infrastructure and deployment fundamentals.
+**☁️ AWS Cloud Internship**  ·  *2025*
+
+<br/>
+
+Gained hands-on exposure to cloud infrastructure and deployment fundamentals.
 
 </td>
 </tr>
 <tr>
 <td width="100%">
 
-**🧠 MERN Full Stack Intern — AICTE EduSkills** &nbsp;·&nbsp; *2025*
-<br/>Built end-to-end MERN stack applications as part of a structured internship program.
+**🧠 MERN Full Stack Internship — AICTE EduSkills**  ·  *2026*
+
+<br/>
+
+Completed structured training in full-stack web development using MongoDB, Express.js, React.js, and Node.js.
 
 </td>
 </tr>
 <tr>
 <td width="100%">
 
-**🔧 Full Stack Intern — Slash Mark** &nbsp;·&nbsp; *2025*
-<br/>Practiced full-stack development on real project workflows.
+**🐍 Python & Full Stack Learning**
 
-</td>
-</tr>
-<tr>
-<td width="100%">
+<br/>
 
-**🐍 Python Full Stack Intern** &nbsp;·&nbsp; *2025*
-<br/>Strengthened backend and full-stack fundamentals using Python.
+Strengthened programming, backend development, database, and application-building fundamentals through structured learning and practical exercises.
 
 </td>
 </tr>
@@ -435,9 +565,9 @@ A full-stack food ordering application with user authentication, real-time order
 
 <table width="100%">
 <tr>
-<td align="center" width="33%">🧩<br/><b>200+ Problems Solved</b><br/><sub>Python, across coding platforms</sub></td>
-<td align="center" width="33%">🏅<br/><b>Hackathon Participant</b><br/><sub>Hackathons & coding competitions</sub></td>
-<td align="center" width="33%">🔬<br/><b>Workshops Completed</b><br/><sub>AI/ML & Full Stack technical sessions</sub></td>
+<td align="center" width="33%">🧩<br/><b>200+ Problems Solved</b><br/><sub>Python and coding practice</sub></td>
+<td align="center" width="33%">🏅<br/><b>Hackathon Participation</b><br/><sub>Technical competitions</sub></td>
+<td align="center" width="33%">🔬<br/><b>Technical Workshops</b><br/><sub>AI/ML and Full Stack</sub></td>
 </tr>
 </table>
 
@@ -447,18 +577,18 @@ A full-stack food ordering application with user authentication, real-time order
 <tr>
 <td align="center" width="25%">🔷<br/><b>Oracle OCI GenAI Professional</b><br/><sub>Oracle</sub></td>
 <td align="center" width="25%">🟢<br/><b>MERN Full Stack Internship</b><br/><sub>AICTE EduSkills</sub></td>
-<td align="center" width="25%">🟣<br/><b>Slash Mark Full Stack Internship</b><br/><sub>Slash Mark</sub></td>
-<td align="center" width="25%">🟡<br/><b>Python Full Stack Internship</b></td>
+<td align="center" width="25%">🟣<br/><b>Full Stack Internship</b><br/><sub>Slash Mark</sub></td>
+<td align="center" width="25%">🟡<br/><b>Python 101</b><br/><sub>IBM</sub></td>
 </tr>
 <tr>
-<td align="center" width="25%">🟠<br/><b>AWS Cloud Internship</b><br/><sub>AWS</sub></td>
+<td align="center" width="25%">🟠<br/><b>AWS Cloud</b><br/><sub>Training</sub></td>
 <td align="center" width="25%">🔷<br/><b>Graph Theory Camp</b><br/><sub>AlgoUniversity</sub></td>
 <td align="center" width="25%">🟢<br/><b>JavaScript Essentials</b><br/><sub>Cisco</sub></td>
-<td align="center" width="25%">🟣<br/><b>Python 101</b><br/><sub>IBM</sub></td>
+<td align="center" width="25%">🟣<br/><b>Digital Edge 101</b><br/><sub>NASSCOM</sub></td>
 </tr>
 <tr>
-<td align="center" width="25%">🟡<br/><b>Digital Edge 101</b><br/><sub>NASSCOM</sub></td>
-<td align="center" width="25%">🟠<br/><b>TCS iON Career Edge</b><br/><sub>TCS</sub></td>
+<td align="center" width="25%">🟡<br/><b>TCS iON Career Edge</b><br/><sub>TCS</sub></td>
+<td align="center" width="25%">🟠<br/><b>Python Full Stack</b><br/><sub>Training</sub></td>
 <td align="center" width="25%"></td>
 <td align="center" width="25%"></td>
 </tr>
@@ -472,18 +602,19 @@ A full-stack food ordering application with user authentication, real-time order
 
 ## 📈 Learning Roadmap
 
-```
-Advanced React.js & Full Stack Dev   ████████████████░░░░  80%
-Data Structures & Algorithms         ██████████████░░░░░░  70%
-System Design Fundamentals           ██████░░░░░░░░░░░░░░  30%
+```text
+Full Stack Development & React.js  ████████████████░░░░  80%
+Data Structures & Algorithms       ██████████████░░░░░░  70%
+LLM Applications & RAG             ████████████░░░░░░░░  60%
+System Design Fundamentals         ██████░░░░░░░░░░░░░░  30%
 ```
 
 <table width="100%">
 <tr>
 <td align="center" width="25%">🟢<br/><b>Current Level</b><br/><sub>Full Stack Developer</sub></td>
-<td align="center" width="25%">🎯<br/><b>Next Goal</b><br/><sub>System Design & DSA mastery</sub></td>
-<td align="center" width="25%">🚀<br/><b>Dream Role</b><br/><sub>Software Engineer, product-first company</sub></td>
-<td align="center" width="25%">🌌<br/><b>Long-Term Vision</b><br/><sub>Build impactful AI-driven products</sub></td>
+<td align="center" width="25%">🎯<br/><b>Next Goal</b><br/><sub>Advanced Backend & DSA</sub></td>
+<td align="center" width="25%">🚀<br/><b>Dream Role</b><br/><sub>Software / AI Application Engineer</sub></td>
+<td align="center" width="25%">🌌<br/><b>Long-Term Vision</b><br/><sub>Build Impactful AI Products</sub></td>
 </tr>
 </table>
 
@@ -497,13 +628,14 @@ System Design Fundamentals           ██████░░░░░░░░�
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Full_Stack_Web_Applications-6366F1?style=flat"/>
-<img src="https://img.shields.io/badge/AI_%26_Computer_Vision_Projects-8B5CF6?style=flat"/>
+<img src="https://img.shields.io/badge/Full_Stack_Web_Applications-6366F1?style=flat" alt="Full Stack Web Applications"/>
+<img src="https://img.shields.io/badge/AI_%26_Computer_Vision_Projects-8B5CF6?style=flat" alt="AI and Computer Vision"/>
 <br/>
-<img src="https://img.shields.io/badge/Open_Source_Contributions-06B6D4?style=flat"/>
-<img src="https://img.shields.io/badge/Startup_Ideas-6366F1?style=flat"/>
+<img src="https://img.shields.io/badge/LLM_%26_RAG_Applications-0891B2?style=flat" alt="LLM and RAG Applications"/>
+<img src="https://img.shields.io/badge/Open_Source_Contributions-06B6D4?style=flat" alt="Open Source"/>
 <br/>
-<img src="https://img.shields.io/badge/Freelance_Web_Development-8B5CF6?style=flat"/>
+<img src="https://img.shields.io/badge/Startup_Ideas-6366F1?style=flat" alt="Startup Ideas"/>
+<img src="https://img.shields.io/badge/Developer_Tools-8B5CF6?style=flat" alt="Developer Tools"/>
 
 </div>
 
@@ -519,27 +651,27 @@ System Design Fundamentals           ██████░░░░░░░░�
 <tr>
 <td align="center" width="20%">
 
-<a href="https://www.linkedin.com/in/sreyeshmandly2341"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="46" style="border-radius:24px"/></a>
+<a href="https://www.linkedin.com/in/sreyeshmandly2341"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="46" alt="LinkedIn"/></a>
 
 </td>
 <td align="center" width="20%">
 
-<a href="https://glow-certify-folio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="46" style="border-radius:24px"/></a>
+<a href="https://glow-certify-folio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="46" alt="Portfolio"/></a>
 
 </td>
 <td align="center" width="20%">
 
-<a href="mailto:mandlysreyesh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="46" style="border-radius:24px"/></a>
+<a href="mailto:mandlysreyesh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="46" alt="Email"/></a>
 
 </td>
 <td align="center" width="20%">
 
-<a href="https://drive.google.com/file/d/18PjcXUvEvGk6kfcFffbkRhG5YxdaFapv/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" height="46" style="border-radius:24px"/></a>
+<a href="https://drive.google.com/file/d/18PjcXUvEvGk6kfcFffbkRhG5YxdaFapv/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" height="46" alt="Resume"/></a>
 
 </td>
 <td align="center" width="20%">
 
-<a href="https://github.com/sreyeshmandly"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="46" style="border-radius:24px"/></a>
+<a href="https://github.com/sreyeshmandly"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="46" alt="GitHub"/></a>
 
 </td>
 </tr>
@@ -555,7 +687,7 @@ System Design Fundamentals           ██████░░░░░░░░�
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1440,100:0d1117&height=120&section=footer"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:eef2ff,50:ddd6fe,100:eef2ff&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:eef2ff,50:ddd6fe,100:eef2ff&height=120&section=footer" width="100%" alt="Decorative footer"/>
 </picture>
 
 </div>
