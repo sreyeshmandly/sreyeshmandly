@@ -3,9 +3,7 @@
 <!-- Profile Header -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:06B6D4&height=250&section=header&text=MANDLY%20SREYESH&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20%26%20COMPUTER%20VISION&descAlignY=55&descSize=17&descColor=FFFFFF" width="100%" alt="Mandly Sreyesh — AI &amp; Full Stack Developer"/>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=MANDLY%20SREYESH" />
-</p>
+
 <br/>
 
 <!-- Animated Developer Titles -->
