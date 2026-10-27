@@ -1,28 +1,49 @@
 <div align="center">
 
-<!-- ============ HERO — adapts to GitHub light/dark theme ============ -->
+<!-- Profile Header -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:151a2e,50:1a1440,75:23113f,100:0d1117&height=260&section=header&text=MANDLY%20SREYESH&fontSize=54&fontColor=00E5FF&animation=twinkling&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER%20%C2%B7%20AI%20%26%20COMPUTER%20VISION&descAlignY=58&descSize=16&descColor=B892FF"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:eef2ff,25:e0e7ff,50:ddd6fe,75:e0e7ff,100:eef2ff&height=260&section=header&text=MANDLY%20SREYESH&fontSize=54&fontColor=4338CA&animation=twinkling&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER%20%C2%B7%20AI%20%26%20COMPUTER%20VISION&descAlignY=58&descSize=16&descColor=7C3AED" width="100%" alt="Mandly Sreyesh — Full Stack Developer"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=760&lines=Full+Stack+Developer;AI+%26+Computer+Vision+Engineer;Building+Scalable+Web+Applications;Exploring+LLMs+%26+RAG;B.Tech+CSE+%C2%B7+Graduating+2026"/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4338CA&center=true&vCenter=true&width=760&lines=Full+Stack+Developer;AI+%26+Computer+Vision+Engineer;Building+Scalable+Web+Applications;Exploring+LLMs+%26+RAG;B.Tech+CSE+%C2%B7+Graduating+2026" alt="Full Stack Developer | AI and Computer Vision"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:06B6D4&height=250&section=header&text=MANDLY%20SREYESH&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20%26%20COMPUTER%20VISION&descAlignY=55&descSize=17&descColor=FFFFFF" width="100%" alt="Mandly Sreyesh — Full Stack Developer"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Status-Open_to_Work-39FF88?style=for-the-badge&logo=googlejobs&logoColor=white&labelColor=1a1a2e" height="34" alt="Open to Work"/>
-<img src="https://img.shields.io/badge/Location-Dharmavaram,_India-00E5FF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a2e" height="34" alt="Location: Dharmavaram, India"/>
-<img src="https://img.shields.io/badge/Graduating-2026-B892FF?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1a1a2e" height="34" alt="Graduating 2026"/>
+<!-- Animated Developer Titles -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6366F1&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Application+Developer;Exploring+LLMs+%26+RAG;Computer+Vision+Enthusiast" alt="Developer titles"/>
 
 <br/><br/>
 
-<a href="https://drive.google.com/file/d/18PjcXUvEvGk6kfcFffbkRhG5YxdaFapv/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" height="42" alt="Resume"/></a> <a href="https://glow-certify-folio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="42" alt="Portfolio"/></a> <a href="https://www.linkedin.com/in/sreyeshmandly2341"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="42" alt="LinkedIn"/></a> <a href="mailto:mandlysreyesh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="42" alt="Email"/></a> <a href="https://github.com/sreyeshmandly"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="42" alt="GitHub"/></a>
+<!-- Profile Badges -->
+
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-16A34A?style=for-the-badge&logo=googlejobs&logoColor=white" alt="Open to Work"/>
+<img src="https://img.shields.io/badge/LOCATION-INDIA-0891B2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location India"/>
+<img src="https://img.shields.io/badge/GRADUATION-2026-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Graduation 2026"/>
+
+<br/><br/>
+
+<!-- Profile Links -->
+
+<a href="https://drive.google.com/file/d/18PjcXUvEvGk6kfcFffbkRhG5YxdaFapv/view?usp=sharing">
+<img src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=googledrive&logoColor=white" height="40" alt="Resume"/>
+</a>
+&nbsp;
+<a href="https://glow-certify-folio.lovable.app/">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" height="40" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/sreyeshmandly2341">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:mandlysreyesh@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://github.com/sreyeshmandly">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub"/>
+</a>
 
 </div>
+
 
 <br/>
 
